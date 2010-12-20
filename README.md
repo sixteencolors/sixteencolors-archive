@@ -28,5 +28,5 @@ links to any additions to the repository.
 Should direct email contact be your preference, you can reach us at the
 following address:
 
-contact@sixteencolors.net
+[contact@sixteencolors.net](mailto:contact@sixteencolors.net)
 
