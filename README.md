@@ -4,6 +4,8 @@ Sixteen Colors ANSI/ASCII Art Archive
 In this repository you will find the history of the ANSI/ASCII art scene from
 1990 to the present.
 
+For a full list of files in the archive, consult [this Github Gist](https://gist.github.com/981584).
+
 Contributing to this repository
 -------------------------------
 
