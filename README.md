@@ -31,4 +31,3 @@ Should direct email contact be your preference, you can reach us at the
 following address:
 
 [contact@sixteencolors.net](mailto:contact@sixteencolors.net)
-
